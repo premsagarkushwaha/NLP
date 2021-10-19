@@ -1,4 +1,5 @@
-
+#you should have installed nltk library in your PC/Laptop.(use "pip install nltk")
+#you should have installed pandas library in your PC/Laptop.(use "pip install pandas")
 
 
 # importing Library
